@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200.00001"
+   id="svg8233"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="femaleIcon.svg">
+  <defs
+     id="defs8235" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="-36.907525"
+     inkscape:cy="-6.5453529"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="693"
+     inkscape:window-maximized="0"
+     units="px" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,126.46337)">
+    <path
+       inkscape:connector-curvature="0"
+       id="femaleCircle-47"
+       d="m 196.01321,-42.693751 a 76.836346,76.836348 0 0 1 -76.83635,76.836335 76.836346,76.836348 0 0 1 -76.836343,-76.836335 76.836346,76.836348 0 0 1 76.836343,-76.836359 76.836346,76.836348 0 0 1 76.83635,76.836359 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0066;stroke-width:8.08799839;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="femaleStem-3"
+       d="M 63.00631,13.075181 3.7906062,71.809443"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0066;stroke-width:8.08799839;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="femaleEnd-7"
+       d="M 4.2428307,30.649027 44.760414,71.844923"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0066;stroke-width:8.08799839;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <metadata
+     id="metadata4205">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title></dc:title>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
